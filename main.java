@@ -10,6 +10,8 @@ public class main {
 		System.out.println("Hello world!3");
 
 		System.out.println("edited by burnBaby029");
+
+		System.out.println("RINDAM V BRAWIJAYA SELALU DIHATI !!!");
 	}
 
 }
