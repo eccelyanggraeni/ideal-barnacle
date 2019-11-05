@@ -8,6 +8,8 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("Version3");
 		System.out.println("Hello world!3");
+
+		System.out.println("edited by burnBaby029");
 	}
 
 }
